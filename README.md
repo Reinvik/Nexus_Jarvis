@@ -16,6 +16,9 @@
 
 **🚀 [Ver Aplicación Web](https://nexus-jarvis-7evytdswp-ariels-projects-c0e12d35.vercel.app/)**
 
+**🚀 [Video Muestra](https://www.youtube.com/watch?v=KDDBbiXuzZc)**
+
+
 ---
 
 ## 💡 Visión General
